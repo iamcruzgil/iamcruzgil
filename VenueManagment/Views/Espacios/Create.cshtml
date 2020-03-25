@@ -1,0 +1,60 @@
+﻿@model VenueManagment.Models.Espacio
+
+@{
+    ViewData["Title"] = "Espacios";
+}
+
+    <h1>Crear Espacios</h1>
+
+<h4></h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="nombre" class="control-label"></label>
+                <input asp-for="nombre" class="form-control" />
+                <span asp-validation-for="nombre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="capacidadMaxima" class="control-label"></label>
+                <input asp-for="capacidadMaxima" class="form-control" />
+                <span asp-validation-for="capacidadMaxima" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="area" class="control-label"></label>
+                <input asp-for="area" class="form-control" />
+                <span asp-validation-for="area" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="combo" /> @Html.DisplayNameFor(model => model.combo)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="idFlujoIngreso" class="control-label"></label>
+                <select asp-for="idFlujoIngreso" class ="form-control" asp-items="ViewBag.idFlujoIngreso"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="idGrupoEspacio" class="control-label"></label>
+                <select asp-for="idGrupoEspacio" class ="form-control" asp-items="ViewBag.idGrupoEspacio"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="idVenue" class="control-label"></label>
+                <select asp-for="idVenue" class ="form-control" asp-items="ViewBag.idVenue"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Guardar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Regresar al listado </a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

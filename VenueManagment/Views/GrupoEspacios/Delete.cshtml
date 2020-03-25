@@ -1,0 +1,33 @@
+﻿@model VenueManagment.Models.GrupoEspacio
+
+@{
+    ViewData["Title"] = "GrupoEspacio";
+}
+
+<h1></h1>
+
+<h3>Estas seguro de eliminar el elemento?</h3>
+<div>
+    <h4></h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.nombre)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.nombre)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.estado)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.estado)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="idGrupoEspacio" />
+        <input type="submit" value="Eliminar" class="btn btn-danger" /> |
+        <a asp-action="Index">Regresar al listado</a>
+    </form>
+</div>

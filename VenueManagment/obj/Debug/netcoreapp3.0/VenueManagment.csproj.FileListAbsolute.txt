@@ -1,0 +1,936 @@
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.StaticWebAssets.xml
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.exe
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.csprojAssemblyReference.cache
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\staticwebassets\VenueManagment.StaticWebAssets.Manifest.cache
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\staticwebassets\VenueManagment.StaticWebAssets.xml
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.csproj.CoreCompileInputs.cache
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.RazorAssemblyInfo.cache
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.RazorAssemblyInfo.cs
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.AssemblyInfoInputs.cache
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.AssemblyInfo.cs
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.TagHelpers.input.cache
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.TagHelpers.output.cache
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.RazorCoreGenerate.cache
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.RazorTargetAssemblyInfo.cache
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.RazorTargetAssemblyInfo.cs
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.csproj.CopyComplete
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.deps.json
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.runtimeconfig.json
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.runtimeconfig.dev.json
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.pdb
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.Views.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.Views.pdb
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.Views.pdb
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.dll
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.pdb
+C:\Users\Gilberto Cruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\staticwebassets\VenueManagment.StaticWebAssets.Manifest.cache
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\staticwebassets\VenueManagment.StaticWebAssets.xml
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.RazorAssemblyInfo.cache
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.RazorAssemblyInfo.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.AssemblyInfoInputs.cache
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.AssemblyInfo.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.pdb
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.TagHelpers.input.cache
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.TagHelpers.output.cache
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.RazorCoreGenerate.cache
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.RazorTargetAssemblyInfo.cache
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.RazorTargetAssemblyInfo.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.StaticWebAssets.xml
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.exe
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.deps.json
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.runtimeconfig.json
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.runtimeconfig.dev.json
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.pdb
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.Views.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.Views.pdb
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.Views.pdb
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.csproj.CopyComplete
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Areas\Principal\Views\Principal\Index.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.csprojAssemblyReference.cache
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\TipoIngresos\Create.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\TipoIngresos\Delete.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\TipoIngresos\Details.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\TipoIngresos\Edit.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\TipoIngresos\Index.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\FlujoIngresos\Create.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\FlujoIngresos\Delete.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\FlujoIngresos\Details.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\FlujoIngresos\Edit.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\FlujoIngresos\Index.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Venues\Create.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Venues\Delete.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Venues\Details.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Venues\Edit.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Venues\Index.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\GrupoEspacios\Create.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\GrupoEspacios\Delete.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\GrupoEspacios\Details.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\GrupoEspacios\Edit.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\GrupoEspacios\Index.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Espacios\Create.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Espacios\Delete.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Espacios\Details.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Espacios\Edit.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Espacios\Index.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\TipoEventos\Create.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\TipoEventos\Delete.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\TipoEventos\Details.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\TipoEventos\Edit.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\TipoEventos\Index.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Contactos\Create.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Contactos\Delete.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Contactos\Details.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Contactos\Edit.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Contactos\Index.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Cuentas\Create.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Cuentas\Delete.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Cuentas\Details.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Cuentas\Edit.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Cuentas\Index.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\RazonSocials\Create.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\RazonSocials\Delete.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\RazonSocials\Details.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\RazonSocials\Edit.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\RazonSocials\Index.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Eventos\Create.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Eventos\Delete.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Eventos\Details.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Eventos\Edit.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Eventos\Index.cshtml.g.cs
+C:\Users\gcruz\Google Drive (cruzobregon@gmail.com)\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\staticwebassets\VenueManagment.StaticWebAssets.Manifest.cache
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\staticwebassets\VenueManagment.StaticWebAssets.xml
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.RazorAssemblyInfo.cache
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.RazorAssemblyInfo.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.AssemblyInfoInputs.cache
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.AssemblyInfo.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Full Calendar\examples\json\events.json
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Full Calendar\packages\bootstrap\package.json
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Full Calendar\packages\core\package.json
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Full Calendar\packages\daygrid\package.json
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Full Calendar\packages\google-calendar\package.json
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Full Calendar\packages\interaction\package.json
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Full Calendar\packages\list\package.json
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Full Calendar\packages\luxon\package.json
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Full Calendar\packages\moment-timezone\package.json
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Full Calendar\packages\moment\package.json
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Full Calendar\packages\rrule\package.json
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Full Calendar\packages\timegrid\package.json
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.StaticWebAssets.xml
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.exe
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.deps.json
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.runtimeconfig.json
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.runtimeconfig.dev.json
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.pdb
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.Views.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.Views.pdb
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\System.Text.Encoding.CodePages.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\Webpack.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.TagHelpers.input.cache
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.TagHelpers.output.cache
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.RazorCoreGenerate.cache
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Areas\Principal\Views\Principal\Index.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Contactos\Create.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Contactos\Delete.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Contactos\Details.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Contactos\Edit.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Contactos\Index.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Cuentas\Create.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Cuentas\Delete.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Cuentas\Details.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Cuentas\Edit.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Cuentas\Index.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Espacios\Create.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Espacios\Delete.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Espacios\Details.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Espacios\Edit.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Espacios\Index.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Eventos\Create.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Eventos\Delete.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Eventos\Details.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Eventos\Edit.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Eventos\Index.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Eventos\_ViewImports.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\FlujoIngresos\Create.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\FlujoIngresos\Delete.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\FlujoIngresos\Details.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\FlujoIngresos\Edit.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\FlujoIngresos\Index.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\GrupoEspacios\Create.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\GrupoEspacios\Delete.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\GrupoEspacios\Details.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\GrupoEspacios\Edit.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\GrupoEspacios\Index.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\RazonSocials\Create.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\RazonSocials\Delete.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\RazonSocials\Details.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\RazonSocials\Edit.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\RazonSocials\Index.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\TipoEventos\Create.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\TipoEventos\Delete.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\TipoEventos\Details.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\TipoEventos\Edit.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\TipoEventos\Index.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\TipoIngresos\Create.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\TipoIngresos\Delete.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\TipoIngresos\Details.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\TipoIngresos\Edit.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\TipoIngresos\Index.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Venues\Create.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Venues\Delete.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Venues\Details.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Venues\Edit.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Venues\Index.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.RazorTargetAssemblyInfo.cache
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.RazorTargetAssemblyInfo.cs
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.Views.pdb
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.csproj.CopyComplete
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.dll
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.pdb
+C:\Users\gcruz\Google Drive\Proyecto\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.csprojAssemblyReference.cache
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\Full Calendar\examples\json\events.json
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\Full Calendar\packages\bootstrap\package.json
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\Full Calendar\packages\core\package.json
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\Full Calendar\packages\daygrid\package.json
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\Full Calendar\packages\google-calendar\package.json
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\Full Calendar\packages\interaction\package.json
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\Full Calendar\packages\list\package.json
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\Full Calendar\packages\luxon\package.json
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\Full Calendar\packages\moment-timezone\package.json
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\Full Calendar\packages\moment\package.json
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\Full Calendar\packages\rrule\package.json
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\Full Calendar\packages\timegrid\package.json
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.StaticWebAssets.xml
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.exe
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.deps.json
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.runtimeconfig.json
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.runtimeconfig.dev.json
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.pdb
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.Views.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.Views.pdb
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\System.Text.Encoding.CodePages.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\Webpack.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.csprojAssemblyReference.cache
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\staticwebassets\VenueManagment.StaticWebAssets.Manifest.cache
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\staticwebassets\VenueManagment.StaticWebAssets.xml
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.RazorAssemblyInfo.cache
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.RazorAssemblyInfo.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.AssemblyInfoInputs.cache
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.AssemblyInfo.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.TagHelpers.input.cache
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.TagHelpers.output.cache
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.RazorCoreGenerate.cache
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Areas\Principal\Views\Principal\Index.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Contactos\Create.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Contactos\Delete.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Contactos\Details.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Contactos\Edit.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Contactos\Index.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Cuentas\Create.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Cuentas\Delete.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Cuentas\Details.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Cuentas\Edit.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Cuentas\Index.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Espacios\Create.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Espacios\Delete.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Espacios\Details.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Espacios\Edit.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Espacios\Index.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Eventos\Create.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Eventos\Delete.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Eventos\Details.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Eventos\Edit.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Eventos\Index.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Eventos\_ViewImports.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\FlujoIngresos\Create.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\FlujoIngresos\Delete.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\FlujoIngresos\Details.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\FlujoIngresos\Edit.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\FlujoIngresos\Index.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\GrupoEspacios\Create.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\GrupoEspacios\Delete.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\GrupoEspacios\Details.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\GrupoEspacios\Edit.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\GrupoEspacios\Index.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\RazonSocials\Create.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\RazonSocials\Delete.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\RazonSocials\Details.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\RazonSocials\Edit.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\RazonSocials\Index.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\TipoEventos\Create.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\TipoEventos\Delete.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\TipoEventos\Details.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\TipoEventos\Edit.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\TipoEventos\Index.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\TipoIngresos\Create.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\TipoIngresos\Delete.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\TipoIngresos\Details.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\TipoIngresos\Edit.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\TipoIngresos\Index.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Venues\Create.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Venues\Delete.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Venues\Details.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Venues\Edit.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Venues\Index.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.RazorTargetAssemblyInfo.cache
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.RazorTargetAssemblyInfo.cs
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.Views.pdb
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.csproj.CopyComplete
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.dll
+C:\Users\gcruz\Documents\Visual Studio 2019\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.pdb
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\package-lock.json
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\package.json
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.StaticWebAssets.xml
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.exe
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.deps.json
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.runtimeconfig.json
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.runtimeconfig.dev.json
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.pdb
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.Views.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\VenueManagment.Views.pdb
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\System.Text.Encoding.CodePages.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\Webpack.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\staticwebassets\VenueManagment.StaticWebAssets.Manifest.cache
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\staticwebassets\VenueManagment.StaticWebAssets.xml
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.RazorAssemblyInfo.cache
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.RazorAssemblyInfo.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.AssemblyInfoInputs.cache
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.AssemblyInfo.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.TagHelpers.input.cache
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.TagHelpers.output.cache
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.RazorCoreGenerate.cache
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Areas\Principal\Views\Principal\Index.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Contactos\Create.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Contactos\Delete.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Contactos\Details.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Contactos\Edit.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Contactos\Index.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Cuentas\Create.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Cuentas\Delete.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Cuentas\Details.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Cuentas\Edit.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Cuentas\Index.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Espacios\Create.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Espacios\Delete.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Espacios\Details.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Espacios\Edit.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Espacios\Index.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Eventos\Create.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Eventos\Delete.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Eventos\Details.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Eventos\Edit.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Eventos\Index.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Eventos\_ViewImports.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\FlujoIngresos\Create.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\FlujoIngresos\Delete.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\FlujoIngresos\Details.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\FlujoIngresos\Edit.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\FlujoIngresos\Index.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\GrupoEspacios\Create.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\GrupoEspacios\Delete.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\GrupoEspacios\Details.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\GrupoEspacios\Edit.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\GrupoEspacios\Index.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\RazonSocials\Create.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\RazonSocials\Delete.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\RazonSocials\Details.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\RazonSocials\Edit.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\RazonSocials\Index.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\TipoEventos\Create.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\TipoEventos\Delete.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\TipoEventos\Details.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\TipoEventos\Edit.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\TipoEventos\Index.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\TipoIngresos\Create.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\TipoIngresos\Delete.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\TipoIngresos\Details.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\TipoIngresos\Edit.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\TipoIngresos\Index.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Venues\Create.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Venues\Delete.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Venues\Details.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Venues\Edit.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\Venues\Index.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.RazorTargetAssemblyInfo.cache
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.RazorTargetAssemblyInfo.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.Views.pdb
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.csproj.CopyComplete
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.dll
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.pdb
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.csprojAssemblyReference.cache
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gcruz\Google Drive\Proyecto Final\VenueManagment\obj\Debug\netcoreapp3.0\VenueManagment.MvcApplicationPartsAssemblyInfo.cache

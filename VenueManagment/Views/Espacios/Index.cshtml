@@ -1,0 +1,71 @@
+﻿@model IEnumerable<VenueManagment.Models.Espacio>
+
+@{
+    ViewData["Title"] = "Espacios";
+}
+
+<h1></h1>
+
+<p>
+    <a asp-action="Create" class='btn btn-info text-white'>Crear Nuevo</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.capacidadMaxima)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.area)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.combo)
+            </th>            
+            <th>
+                @Html.DisplayNameFor(model => model.flujoingreso)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.grupoespacio)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.venue)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.capacidadMaxima)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.area)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.combo)
+            </td>           
+            <td>
+                @Html.DisplayFor(modelItem => item.flujoingreso.nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.grupoespacio.nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.venue.nombre)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.idEspacio">Ediar</a> |
+                <a asp-action="Details" asp-route-id="@item.idEspacio">Detalles</a> |
+                <a asp-action="Delete" asp-route-id="@item.idEspacio">Eliminar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

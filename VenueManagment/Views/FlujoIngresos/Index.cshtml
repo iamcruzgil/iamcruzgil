@@ -1,0 +1,47 @@
+﻿@model IEnumerable<VenueManagment.Models.FlujoIngreso>
+
+@{
+    ViewData["Title"] = "Flujo de Ingreso";
+}
+
+<h1></h1>
+
+<p>
+    <a asp-action="Create" class='btn btn-info text-white'>Crear Nuevo</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.estado)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.tipoingreso)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.estado)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tipoingreso.nombre)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.idFlujoIngreso">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.idFlujoIngreso">Detalles</a> |
+                <a asp-action="Delete" asp-route-id="@item.idFlujoIngreso">Eliminar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

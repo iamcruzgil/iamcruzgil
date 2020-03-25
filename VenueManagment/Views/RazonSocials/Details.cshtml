@@ -1,0 +1,102 @@
+﻿@model VenueManagment.Models.RazonSocial
+
+@{
+    ViewData["Title"] = "Razon Social";
+}
+
+<h1>Detalles</h1>
+
+<div>
+    <h4></h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.nombre)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.nombre)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.rfc)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.rfc)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.calle)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.calle)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.colonia)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.colonia)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.noInt)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.noInt)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.noExt)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.noExt)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ciudad)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ciudad)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.estado)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.estado)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.pais)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.pais)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.cp)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.cp)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.metodoPago)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.metodoPago)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.usoCfdi)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.usoCfdi)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.estatus)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.estatus)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.cuenta)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.cuenta.calle)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.idRazonSocial">Editar</a> |
+    <a asp-action="Index">Regresar al listado</a>
+</div>

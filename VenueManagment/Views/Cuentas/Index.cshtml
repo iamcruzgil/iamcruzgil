@@ -1,0 +1,72 @@
+﻿@model IEnumerable<VenueManagment.Models.Cuenta>
+
+@{
+    ViewData["Title"] = "Cuentas";
+}
+
+<h1></h1>
+
+<p>
+    <a asp-action="Create" class='btn btn-info text-white'>Crear Nuevo</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.web)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.descripcion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.estatus)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.contacto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.segmento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.campana)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.nombre)
+            </td>
+           
+            <td>
+                @Html.DisplayFor(modelItem => item.web)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.descripcion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.estatus)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.contacto.email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.segmento.nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.campana.nombre)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.idCuenta">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.idCuenta">Detalles</a> |
+                <a asp-action="Delete" asp-route-id="@item.idCuenta">Eliminar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
